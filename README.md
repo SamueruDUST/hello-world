@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository on GitHub
+Mister, I'll make a game out of you. -Samueru
